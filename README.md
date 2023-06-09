@@ -1,5 +1,8 @@
 # Linear_Regression_clothing-advice-sessions
 
+
+![the-hunt-fashion-advice-app-screenshots-snapmunk](https://github.com/gauravchamate1/Linear_Regression_clothing-advice-sessions/assets/40346407/72f3f5a7-68ca-4e70-996a-29784709e392)
+
 Linear Regression - Project Exercise
 Congratulations! You just got some contract work with an Ecommerce company based in New York City that sells clothing online but they also have in-store style and clothing advice sessions. Customers come in to the store, have sessions/meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want.
 
